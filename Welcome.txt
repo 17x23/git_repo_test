@@ -2,6 +2,6 @@ import <stdio.h>
 
 int main(void)
 {
-    printf("welcome\n")
-    printf("kak tvoi dela\n")
+    printf("welcome")
+    printf("kak tvoi dela")
 }
