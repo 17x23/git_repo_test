@@ -1,1 +1,7 @@
-printf("welcome")
+import <stdio.h>
+
+int main(void)
+{
+    printf("welcome")
+    printf("kak tvoi dela")
+}
