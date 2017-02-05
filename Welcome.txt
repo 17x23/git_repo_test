@@ -2,7 +2,7 @@ import <stdio.h>
 
 int main(void)
 {
-    printf("welcome\n")
-    printf("kak tvoi dela\n")
-    printf("keep up")
+    printf("welcome!\n")
+    printf("kak tvoi dela?\n")
+    printf("keep up!")
 }
