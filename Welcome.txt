@@ -4,6 +4,6 @@ int main(void)
 {
     printf("welcome!\n")
     printf("kak tvoi dela?\n")
-    printf("keep up!")
-    printf("don't let it down!")
+    printf("keep up\n!")
+    printf("don't let it down!\n")
 }
